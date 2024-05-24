@@ -1,2 +1,0 @@
-# Redes
-Practicas de Laboratorio
